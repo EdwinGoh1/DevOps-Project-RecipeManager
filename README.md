@@ -6,3 +6,4 @@ DevOps project for Diploma in Information Technology at Temasek Polytechnic, 202
 
 - Edwin Goh
 - Dexter Oh
+- Ng Hong Long
